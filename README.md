@@ -1,4 +1,4 @@
-### Hi My name is Pablo Ignacio 👋
+### Hi, My name is Pablo Ignacio 👋
 
 <!--
 **slasheR-46/slasher-46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
