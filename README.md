@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coming-soon&label=Profile%20views&color=0e75b6&style=flat" alt="coming-soon" /> </p>
 
-<p align="left"> <a href="https://twitter.com/coming-soon" target="blank"><img src="https://img.shields.io/twitter/follow/coming-soon?logo=twitter&style=for-the-badge" alt="coming-soon" /></a> </p>
-
 - 🔭 I’m currently working on **Budnik**
 
 - 🌱 I’m currently learning **Node, React, Vue, Springboot**
