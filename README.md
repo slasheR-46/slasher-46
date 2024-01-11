@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente me encuentro trabajando en **Budnik**
 
-- 🌱 Me encuentro aprendiendo **cada dia sobre programacion hasta alcanzar el rango de gran maestre** 🐱‍💻
+- 🌱 Me encuentro aprendiendo **cada dia sobre programación hasta alcanzar el rango de gran maestre** 🐱‍💻
 
 - 👨‍💻 Todos mis proyectos estarán disponibles en [https://github.com/slasheR-46](https://github.com/slasheR-46)
 
