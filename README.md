@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenido 👋, Me llamo Pablo Ignacio</h1>
+<h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio</h1>
 <h3 align="center">Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
 
 - 🔭 Actualmente me encuentro trabajando en **Budnik**
