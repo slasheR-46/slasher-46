@@ -14,6 +14,8 @@
 
 - ⚡ Hobby **Motocicletas, videojuegos, Hardware**
 
+- 🌍 Web **En Construcción 👷‍♂️**
+
 <p align="left">
 </p>
 
