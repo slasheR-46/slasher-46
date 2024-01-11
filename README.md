@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente me encuentro trabajando en **Budnik**
 
-- 🌱 Me encuentro aprendiendo **MERN, Springboot**
+- 🌱 Me encuentro aprendiendo **cada dia sobre programacion hasta alcanzar el rango de gran maestre** 🐱‍💻
 
 - 👨‍💻 Todos mis proyectos estarán disponibles en [https://github.com/slasheR-46](https://github.com/slasheR-46)
 
