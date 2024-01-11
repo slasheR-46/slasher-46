@@ -1,5 +1,3 @@
-https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
-
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/10144546-Programmer/attachments/2108025?mode=media">
 
 <h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio</h1>
