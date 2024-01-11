@@ -3,7 +3,7 @@
 <h3 align="center">🕺 Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&style=flat" alt="slasher-46" /> </p>
 
-- 🔭 Actualmente me encuentro trabajando en **Budnik**
+- 🔭 Actualmente trabajo en **Budnik**
 
 - 🌱 Me encuentro aprendiendo **cada dia sobre programación hasta alcanzar el rango de gran maestre** 🐱‍💻
 
