@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://tenor.com/bR98b.gif" width="200" >
+</div>
+
 <h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio 🐱‍💻</h1>
 <h3 align="center">🕺 Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&style=flat" alt="slasher-46" /> </p>
