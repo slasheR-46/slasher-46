@@ -1,10 +1,8 @@
-
-<img src="[https://tenor.com/bR98b.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamR1MjBvc3BhYmNwM3U0dWE3ZXR5Y2Q2NWxtZG9kbWx1b3o2MGlkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="200" />
-
-
 <h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio 🐱‍💻</h1>
 <h3 align="center">🕺 Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&style=flat" alt="slasher-46" /> </p>
+
+<img src="[https://tenor.com/bR98b.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamR1MjBvc3BhYmNwM3U0dWE3ZXR5Y2Q2NWxtZG9kbWx1b3o2MGlkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="200" />
 
 - 🔭 Actualmente trabajo en **Budnik**
 
