@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center"> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&style=flat" alt="slasher-46" /> </p>
+  <p > <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&style=flat" alt="slasher-46" /> </p>
 </div>
 
 - 🔭 Actualmente trabajo en **Budnik**
