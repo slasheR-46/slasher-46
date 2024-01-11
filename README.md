@@ -1,6 +1,6 @@
-<div align="center">
+
   <img src="https://tenor.com/bR98b.gif" width="200" />
-</div>
+
 
 <h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio 🐱‍💻</h1>
 <h3 align="center">🕺 Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
