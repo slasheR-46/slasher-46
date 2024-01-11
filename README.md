@@ -5,8 +5,6 @@
 
 - 🌱 Me encuentro aprendiendo **MERN, Springboot**
 
-- 🤝 I’m looking for help with **MERN**
-
 - 👨‍💻 Todos mis proyectos estarán disponibles en [https://github.com/slasheR-46](https://github.com/slasheR-46)
 
 - 💬 Puedes preguntarme sobre **Java, Python, JavaScript, Spring Boot, ReactJS, VueJS 2 y 3, NuxtJS, MongoDB, Express, NodeJS.**
@@ -15,7 +13,6 @@
 
 - ⚡ Hobby **Motocicletas, videojuegos, Hardware**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
