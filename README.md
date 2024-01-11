@@ -1,5 +1,3 @@
-<img src="[[https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&style=flat](https://media1.tenor.com/m/6deljAemwSoAAAAC/java-script.gif)](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)" alt="slasher-46" />
-
 
 <h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio 🐱‍💻</h1>
 <h3 align="center">Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
