@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/10144546-Programmer/attachments/2108025?mode=media](https://cdn.dribbble.com/users/3089141/screenshots/10144546/media/e0c873467a23a56feb95f8c4b4406d93.gif)">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/10144546-Programmer">
 
 <h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio</h1>
 <h3 align="center">Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
