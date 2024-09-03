@@ -1,10 +1,10 @@
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="1000" height="200"/>
-  <h1 align="center">Bienvenido 👋, Mi nombre es Pablo Ignacio </h1>
-  <h3 align="center">🕺 Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
+  <h1 align="center">Bienvenido, Mi nombre es Pablo Ignacio </h1>
+  <h3 align="center">Soy ingeniero en informática y un entusiasta de ethical hacking</h3>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&style=flat" alt="slasher-46" /> </p>
 
-- 🔭 Actualmente trabajo en **Budnik**
+- 🔭 Actualmente trabajo en **Budnik Hnos SA**
 
 - 🌱 Me encuentro aprendiendo **cada día sobre programación hasta alcanzar el rango de gran maestre** 🐱‍💻
 
