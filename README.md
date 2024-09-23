@@ -1,8 +1,8 @@
   <img alt="coding" width="1000" height="200" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" />
-  <h1 alinear="centro">Bienvenido, Mi nombre es Pablo Ignacio </h1>
-  <h3 alinear="centro">Soy ingeniero en informática y un entusiasta del hacking ético</h3>
+  <h1 align="center">Bienvenido, Mi nombre es Pablo Ignacio </h1>
+  <h3 align="center">Soy ingeniero en informática y un entusiasta del hacking ético</h3>
 
-  <p alinear="centro"> <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&estilo=flat" alt="slasher-46" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=slasher-46&label=Profile%20views&color=0e75b6&estilo=flat" alt="slasher-46" /> </p>
 
 - 🔭 Actualmente trabajo en **Budnik Hnos SA**
 
@@ -18,14 +18,14 @@
 
 - 🌍 Web **En Construccion ?? ¦**
 
-<h3 alinear="centro">🛠 Lenguajes y herramientas:</h3>
+<h3 alinear="center">🛠 Lenguajes y herramientas:</h3>
 
   
-<h3 alinear="centro">Análisis de GitHub ⚙</h3>
+<h3 align="center">Análisis de GitHub ⚙</h3>
 
-<p><img alinear="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=slasher-46&show_icons=true&local=en&diseño=compacto" alt="slasher-46" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slasher-46&show_icons=true&local=en&diseño=compacto" alt="slasher-46" /></p>
 
-<p>&nbsp;<img alinear="centro" src="https://github-readme-stats.vercel.app/api?username=slasher-46&show_icons=true&locale=en" alt="slasher-46" /></p>
+<p>&nbsp;<img align="centro" src="https://github-readme-stats.vercel.app/api?username=slasher-46&show_icons=true&locale=en" alt="slasher-46" /></p>
 
 
 <img src="https://media.giphy.com/media/yl3XErRq8qmmA/giphy.gif" ancho="1000" alta="200"/>
