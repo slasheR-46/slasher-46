@@ -1,4 +1,4 @@
-    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvctgguy9jig4h23gz481.gif" ancho="1000" alto="200"/>/>
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvctgguy9jig4h23gz481.gif" ancho="1000" alta="200"/>
   <h1 alinear="centro">Bienvenido, Mi nombre es Pablo Ignacio </h1>
   <h3 alinear="centro">Soy ingeniero en informática y un entusiasta del hacking ético</h3>
 
